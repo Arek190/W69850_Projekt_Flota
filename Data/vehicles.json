@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "Brand": "Audi",
+    "Model": "A4",
+    "Year": 2010,
+    "IsAvailable": false,
+    "RentedByUserId": 2,
+    "Mileage": 3278.0,
+    "Condition": "Dobry"
+  },
+  {
+    "Id": 2,
+    "Brand": "Ford",
+    "Model": "Focus",
+    "Year": 2019,
+    "IsAvailable": true,
+    "RentedByUserId": null,
+    "Mileage": 128340.0,
+    "Condition": "Dobry"
+  },
+  {
+    "Id": 3,
+    "Brand": "Kia",
+    "Model": "Ceed",
+    "Year": 2020,
+    "IsAvailable": true,
+    "RentedByUserId": null,
+    "Mileage": 15000.0,
+    "Condition": "Dobry"
+  },
+  {
+    "Id": 4,
+    "Brand": "Audi",
+    "Model": "A3",
+    "Year": 2007,
+    "IsAvailable": true,
+    "RentedByUserId": null,
+    "Mileage": 274000.0,
+    "Condition": "Wymaga serwisu"
+  },
+  {
+    "Id": 5,
+    "Brand": "Ford",
+    "Model": "Fusion",
+    "Year": 2011,
+    "IsAvailable": true,
+    "RentedByUserId": null,
+    "Mileage": 177000.0,
+    "Condition": "Dobry"
+  }
+]
