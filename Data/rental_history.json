@@ -1,0 +1,34 @@
+[
+  {
+    "VehicleId": 1,
+    "VehicleInfo": "Audi A4",
+    "UserId": 1,
+    "UserInfo": "Anna Nowak",
+    "RentDate": "2025-02-11T18:00:06.1040774+01:00",
+    "ReturnDate": "2025-02-11T18:00:10.3399158+01:00"
+  },
+  {
+    "VehicleId": 1,
+    "VehicleInfo": "Audi A4",
+    "UserId": 2,
+    "UserInfo": "Adam Kowal",
+    "RentDate": "2025-02-11T18:06:20.9608352+01:00",
+    "ReturnDate": "2025-02-11T18:06:33.6677955+01:00"
+  },
+  {
+    "VehicleId": 1,
+    "VehicleInfo": "Audi A4",
+    "UserId": 2,
+    "UserInfo": "Adam Kowal",
+    "RentDate": "2025-02-11T18:08:17.8888597+01:00",
+    "ReturnDate": null
+  },
+  {
+    "VehicleId": 5,
+    "VehicleInfo": "Ford Fusion",
+    "UserId": 1,
+    "UserInfo": "Anna Nowak",
+    "RentDate": "2025-02-11T18:35:52.465572+01:00",
+    "ReturnDate": "2025-02-11T18:36:00.5772531+01:00"
+  }
+]
