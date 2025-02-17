@@ -4,8 +4,8 @@
     "Brand": "Audi",
     "Model": "A4",
     "Year": 2010,
-    "IsAvailable": false,
-    "RentedByUserId": 2,
+    "IsAvailable": true,
+    "RentedByUserId": null,
     "Mileage": 3278.0,
     "Condition": "Dobry"
   },

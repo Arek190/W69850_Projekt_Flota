@@ -4,7 +4,10 @@ using Newtonsoft.Json;
 
 public class RentalService
     {
-        private static string historyFilePath = Path.Combine(Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory).Parent.Parent.FullName, "Data", "rental_history.json");
+        private static string historyFilePath = Path.Combine(
+            Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\Data")),
+            "rental_history.json"
+        );
 
         public static List<RentalRecord> LoadHistory()
         {
